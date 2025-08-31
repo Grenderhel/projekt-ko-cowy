@@ -1,1 +1,5 @@
-czje
+aby projekt działał, najpierw trzeba dodać do plików kodu model SI YOLOv3
+następnie trzeba odpalić pięrwszą część kodu zawierająca installer do imageAI
+następnie wgrać zdjęcie, które chcemy przeanalizować i wkleić ścierzke do niego w zaznaczonym miejscu
+jeśli nie zadziała, trzeba zmienić ścieżkę do pliku yolov3
+jak już wszystko działa, powinna pojawić sie analiza zdjęcia jak i zdjęcie z zaznaczonymi wykrytymi obiektami
